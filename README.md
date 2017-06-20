@@ -12,4 +12,5 @@ result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 ## Requiremnets
 
 * Keras 2
-* Tensorflow 1.2.2
+* Tensorflow
+* pytohn 3
