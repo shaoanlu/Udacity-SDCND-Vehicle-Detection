@@ -13,4 +13,4 @@ result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 
 * Keras 2
 * Tensorflow
-* pytohn 3
+* Python 3
