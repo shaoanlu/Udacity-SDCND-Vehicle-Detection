@@ -8,3 +8,8 @@ result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 **ssd_download_essentials.ipynb:** Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
 
 **SSD_car_detection.ipynb:** Car detection using SSD is done in the first 6 cells.
+
+## Requiremnets
+
+* Keras 2
+* Tensorflow 1.2.2
