@@ -5,7 +5,7 @@ https://shaoanlu.wordpress.com/2017/05/07/vihicle-detection-using-ssd-on-floybhu
 
 result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 
-![alt text](https://shaoanlu.files.wordpress.com/2017/05/ezgif-2-8a23e30507.gif)
+!(https://shaoanlu.files.wordpress.com/2017/05/ezgif-2-8a23e30507.gif)
 
 **ssd_download_essentials.ipynb:** Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
 
