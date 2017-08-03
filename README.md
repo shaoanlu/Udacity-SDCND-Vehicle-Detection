@@ -15,6 +15,6 @@ result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 
 ## Requiremnets
 
-* Keras 1
+* Keras 1 or keras 2
 * Tensorflow
 * Python 3
