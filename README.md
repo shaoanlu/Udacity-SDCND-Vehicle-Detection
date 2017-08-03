@@ -9,13 +9,13 @@ result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 
 ## Descriptions
 
-(For keras 1)
+For keras 1
 
 **ssd_download_essentials.ipynb:** Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
 
 **SSD_car_detection.ipynb:** Car detection using SSD is done in the first 6 cells.
 
-(For keras 2)
+For keras 2
 
 **ssd_download_essentials_keras2.ipynb:** Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
 
