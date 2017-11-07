@@ -11,23 +11,23 @@ result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
 
 **SSD keras 1**
 
-(ssd_download_essentials.ipynb)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/ssd_download_essentials.ipynb]: Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
+- [ssd_download_essentials.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/ssd_download_essentials.ipynb): Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
 
-(SSD_car_detection.ipynb)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/SSD_car_detection.ipynb]: Car detection using SSD is done in the first 6 cells.
+- [SSD_car_detection.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/SSD_car_detection.ipynb): Car detection using SSD is done in the first 6 cells.
 
 **SSD keras 2**
 
-(ssd_download_essentials_keras2.ipynb)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/ssd_download_essentials_keras2.ipynb]: Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
+- [ssd_download_essentials_keras2.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/ssd_download_essentials_keras2.ipynb): Run this notebook first to download SSD implemnetation, moviepy package and target video from github.
 
-(SSD_car_detection_keras2.ipynb)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/SSD_car_detection_keras2.ipynb]: Car detection using SSD is done in the first 6 cells. This script will be in ./ssd_keras-master after running ssd_download_essentials_keras2.ipynb
+- [SSD_car_detection_keras2.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/SSD_car_detection_keras2.ipyn): Car detection using SSD is done in the first 6 cells. This script will be in ./ssd_keras-master after running ssd_download_essentials_keras2.ipynb
 
 **Mask-RCNN**
 
-(Mask_RCNN_download_essentials.ipynb)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_download_essentials.ipynb]: This notebook git clone Mask-RCNN from matterportm download projecty video and pip install essential packages.
+- [Mask_RCNN_download_essentials.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_download_essentials.ipynb): This notebook git clone Mask-RCNN from matterportm download projecty video and pip install essential packages.
 
-(visualize_car_detection.py)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/visualize_car_detection.py]: Utilities for visaulize Mask-RCNN result .Put this file in `./Mask_RCNN/`
+- [visualize_car_detection.py](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/visualize_car_detection.py): Utilities for visaulize Mask-RCNN result .Put this file in `./Mask_RCNN/`
 
-(Mask_RCNN_demo_car_detection.ipynb)[https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_demo_car_detection.ipynb]: Put this file in `./Mask_RCNN/`
+- [Mask_RCNN_demo_car_detection.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_demo_car_detection.ipynb): Put this file in `./Mask_RCNN/`
 
 ## Requiremnets
 
