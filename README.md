@@ -9,6 +9,8 @@ Result video (SSD): https://www.youtube.com/watch?v=Vc1g27yJgsw
 
 Result video (Mask-RCNN): https://www.youtube.com/watch?v=9N7jtUnCuz8
 
+![](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/raw/master/mask_rcnn_car_detection.gif)
+
 ## Descriptions
 
 **SSD keras 1**
