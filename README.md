@@ -3,9 +3,11 @@
 https://shaoanlu.wordpress.com/2017/05/07/vihicle-detection-using-ssd-on-floybhub-udacity-self-driving-car-nano-degree/
 
 
-result video: https://www.youtube.com/watch?v=Vc1g27yJgsw
+Result video (SSD): https://www.youtube.com/watch?v=Vc1g27yJgsw
 
 ![](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/raw/master/result.gif)
+
+Result video (Mask-RCNN): https://www.youtube.com/watch?v=9N7jtUnCuz8
 
 ## Descriptions
 
