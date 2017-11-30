@@ -25,7 +25,7 @@ Result video (Mask-RCNN): https://www.youtube.com/watch?v=9N7jtUnCuz8
 
 **Mask-RCNN**
 
-* [Mask_RCNN_download_essentials.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_download_essentials.ipynb): This notebook git clone Mask-RCNN from matterportm download projecty video and pip install essential packages.
+* [Mask_RCNN_download_essentials.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_download_essentials.ipynb): This notebook git clone Mask-RCNN from matterport, download project video and pip install essential packages.
 * [visualize_car_detection.py](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/visualize_car_detection.py): Utilities for visaulize Mask-RCNN result .Put this file in `./Mask_RCNN/`
 * [Mask_RCNN_demo_car_detection.ipynb](https://github.com/shaoanlu/Udacity-SDCND-Vehicle-Detection/blob/master/Mask_RCNN_demo_car_detection.ipynb): Put this file in `./Mask_RCNN/`
 
